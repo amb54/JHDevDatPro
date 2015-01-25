@@ -1,0 +1,5 @@
+﻿Data used in this app has been downloaded from the World Bank Open Data (http://data.worldbank.org/) during the period 2014-12-17 to 2015-01-15.
+
+My hope is that anyone using this app will get even more curious about The World Bank Group and their work to end extreme poverty and promote shared prosperity.        
+
+

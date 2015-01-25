@@ -1,0 +1,16 @@
+﻿1. Choose a country that you are interested in.
+Included in the Country-list are also World and European Union.
+World is data for the whole world combined, while European Union is data of all countries in the EU combined.
+
+2. Choose an indicator that you are interested in.
+The indicators are listed in the tab Data, together with links leading to the raw data.
+
+3. Choose a period that you are interested in.
+
+Note:
+If there is no data, or if all data available is zero, there will be no calculation and no plot.
+The best thing to do is just to go ahead and make other choices for country, indicator and/or period.         
+
+
+
+

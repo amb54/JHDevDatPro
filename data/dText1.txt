@@ -1,0 +1,53 @@
+﻿The indicators used in this app are listed below and are just a few of many more that can be found on the World Bank's webpage.
+They are sorted under General data, Infrastructure and Health.
+
+The very important topic Education is NOT included in this app due to it being quite complicated and calling for an app of its own.
+Learn more about education by following the link
+http://data.worldbank.org/topic/education.  
+
+Before the data was used in this app it was gathered into one data file.
+The code for how this was done can be found at github
+https://github.com/amb54/JHDevDatPro.git.
+
+
+-----------------------------------
+RAWDATA from World Bank
+-----------------------------------
+
+--- General data about the country---
+Total population (Population, total )
+http://data.worldbank.org/indicator/SP.POP.TOTL
+
+Arable land per person (Arable land (hectares per person)) 
+http://data.worldbank.org/indicator/AG.LND.ARBL.HA.PC
+
+Gross national income per capita (GNI per capita based on purchasing power parity (PPP))
+http://data.worldbank.org/indicator/NY.GNP.PCAP.PP.CD
+
+
+---Basic infrastructure---
+Access to drinking water in rural areas (Improved water source, rural (% of rural population with access)) 
+http://data.worldbank.org/indicator/SH.H2O.SAFE.RU.ZS
+
+Access to drinking water in rural areas (Improved water source, urban (% of urban population with access)) 
+http://data.worldbank.org/indicator/SH.H2O.SAFE.UR.ZS
+
+
+---Infrastructure---
+Access to electricity (Access to electricity (% of population))
+http://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
+
+Internet users (Internet users (per 100 people))
+http://data.worldbank.org/indicator/IT.NET.USER.P2
+
+Motor vehicles (Motor vehicles (per 1,000 people))
+http://data.worldbank.org/indicator/IS.VEH.NVEH.P3
+
+
+---Health---
+Fertility rate (Fertility rate, total (births per woman))
+http://data.worldbank.org/indicator/SP.DYN.TFRT.IN
+
+Mortality rate (Mortality rate, under-5 (per 1,000 live births))
+http://data.worldbank.org/indicator/SH.DYN.MORT
+

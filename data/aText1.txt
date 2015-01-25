@@ -1,0 +1,11 @@
+﻿With this app you can find out how your country has developed from 1961 up until recent years when it comes to for instance total population or number of internet users.      
+
+The app calculates the change over a period of years, a period that you yourself can choose. It also plots the data available over the set period.      
+
+The app also shows data for other countries having the highest and lowest values for the most recent year in the selected period. Please find more information about the data in the tab “Data”.           
+
+
+
+   
+
+
